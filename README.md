@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # CalculatorApp-In-Flask
+=======
+# We are learning to develop a claculator app
+
+## CalculatorApp-In-Flask
+>>>>>>> dde40302e5eb6bc7231e19ce4d116bc60e1df821
 
 ### 💻 Tech Stack
 ### Front-End:
@@ -10,6 +16,10 @@
 
 ## 🚀 Quick Start :
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dde40302e5eb6bc7231e19ce4d116bc60e1df821
 #### Step 1: Forking the repository :
 
 To work on an open-source project, you will first need to make your copy of the repository. To do this, you should fork the repository and then clone it so that you have a local working copy.
